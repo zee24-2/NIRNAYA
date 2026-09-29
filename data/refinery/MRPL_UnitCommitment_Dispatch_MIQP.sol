@@ -1,0 +1,7 @@
+# status optimal
+# objective 2238.6363636365222
+# gap 0.000000e+00
+Commit_GT1 1
+Commit_GT2 1
+Gen_GT1 68.181818179399642
+Gen_GT2 31.818181820607634

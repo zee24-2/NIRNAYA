@@ -1,0 +1,9 @@
+# status optimal
+# objective 22171.59777424483
+# gap 0.000000e+00
+Crude_ArabLight 500
+Crude_BonnyLight 372.01907790143088
+Crude_IranHeavy 127.98092209856918
+Sell_Naphtha 237.20190779014308
+Sell_JetKero 308.48171701112881
+Sell_Gasoil 401.63751987281398
